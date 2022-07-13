@@ -1,2 +1,2 @@
 # hfutengine
-HFUTEngine(final) is our final binary file. Please download this.
+HFUTEngine(final) is our final binary file. Please use this.
